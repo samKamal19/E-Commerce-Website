@@ -1,0 +1,627 @@
+
+.body{
+    margin: 0px;
+    padding: 0px;
+} 
+ /* NAVBAR */
+
+.navbar{
+    background-color:#9FA8DA !important;
+}
+
+.btn .hover{
+    color: #fff !important;
+}
+
+.nav-link{
+    color: #fff !important;
+    font-weight: bold !important;
+}
+
+.fa-shopping-cart{
+    font-size: 32px !important;
+    
+}
+
+/* SLIDER */
+
+.slides{
+    margin-bottom: 80px;
+}
+
+/* CARD */
+
+.NewArraival{
+    margin-top: 80px;
+    
+}
+
+.card{
+    width: 250px;
+    height: 200px !important;
+}
+
+.card-text{
+    font-weight: bold;
+}
+
+.btn-primary{
+    width: 100%;
+    background-color:#9FA8DA ;
+}
+
+.product-pic{
+    padding-top: 200px;
+    margin-left: 80px;    
+}
+
+
+
+/* CARD SHIPPING */
+
+.head-shipping{
+   font-size: 50px;
+   font-weight: bold;
+   color: #9FA8DA;
+   text-decoration: underline;
+   margin-top: 80px;
+   text-align: center;
+}
+
+
+.fa-clock-o, .fa-truck, .fa-thumbs-up{
+    font-size: 40px !important;
+    margin-right: 10px;
+}
+
+.card1, .card2, .card3{
+    display: flex;
+    height: 80px;
+    width: 30%;
+    background-color:#9FA8DA !important;
+    box-shadow: 2px 4px 5px grey;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}    
+.mainCard{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+/* FOOETR */
+
+.footer{
+    background-color: black;
+    color: white;
+    height: 700px;
+    position: relative;
+    margin-top: 120px;
+}
+
+/* .footer-content{
+    padding-top: 80px;
+    font-size: 20px;
+    padding-left: 600px;
+} */
+
+.footer-content{
+    text-align: center;
+    padding-top: 80px ;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.content1{
+    text-align: right;
+    padding-right: 180px;
+   
+}
+
+    
+
+.content-address{
+    text-align: left;
+    padding-left: 50px;
+    font-size: 16px;
+}
+
+
+.connect{
+    display: inline;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.connect1 .connect2 .connect3 .connect4{
+    display: inline block;
+    
+}
+
+.connect1 .p1{
+    display: inline;
+}
+
+.footer .footer-bottom{
+    background-color: rgb(89, 89, 245);
+    color: white;
+    height: 40px;
+    text-align: left;
+    bottom: 0px;
+    position: absolute;
+    width: 100%;
+    padding-left: 120px;
+    padding-top: 20px;
+}
+
+.row1{
+    width: 90%;
+    margin-left: 50px;
+    text-align: center;
+}
+.figuresContent{
+    text-align: center;
+    margin: 20px;
+    font-size: 23px;
+}
+
+
+
+/* MAN'S SHIRT PAGE  */
+
+.PS-h1{
+   text-align: center;
+   text-decoration: underline;
+   color:#9FA8DA;
+   margin-top: 50px;
+   font-weight: bold;
+   
+}
+
+.plainshirt{
+    margin-top: 50px;
+    
+}
+
+.card{
+    width: 250px;
+    height: auto !important;
+    margin-right: 30px;
+    margin-bottom: 50px;
+    margin-top: 60px;
+}
+
+.card-text{
+    font-weight: bold;
+}
+
+.btn-primary{
+    width: 100%;
+    background-color:#9FA8DA ;
+}
+
+.product-pic{
+    padding-top: 200px;
+    margin-left: 80px;    
+}
+
+.plainshirt2{
+    display: inline;
+    
+}
+
+.PrS-h1{
+    text-align: center;
+    text-decoration: underline;
+    color:#9FA8DA;
+    margin-top: 50px;
+    font-weight: bold;
+    
+ }
+ 
+.printedshirt{
+    margin-top: 50px;
+    
+}
+
+.card{
+    width: 250px;
+    height: auto !important;
+    margin-right: 30px;
+    margin-bottom: 50px;
+    margin-top: 60px;
+}
+
+.card-text{
+    font-weight: bold;
+}
+
+.btn-primary{
+    width: 100%;
+    background-color:#9FA8DA ;
+}
+
+.product-pic{
+    padding-top: 200px;
+    margin-left: 80px;    
+}
+
+/* MAN'S PANT PAGE */
+
+.img-fluid{
+    margin-left: 400px;
+    margin-top: 100px;
+
+}
+
+.jeans{
+    font-weight: bold;
+    text-decoration: underline;
+    color: #9FA8DA;
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.round-img{
+    margin-top: 80px;
+}
+
+.img-black{
+    padding-right: 80px;
+    padding-top: 40px;
+}
+
+
+/* ABOUT-US PAGE */
+
+.heading{
+    text-align: center;
+    text-decoration: underline;
+    color:#3D5AFE;
+    margin-top: 80px;
+    margin-bottom: 70px;
+    font-size: 80px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.info-brand{
+    background-color:#8C9EFF ;
+    color: #fff;
+}
+.chinos{
+    color:#9FA8DA ;
+    text-align: center;
+    margin-top: 140px;
+    margin-bottom: 80px;
+    text-decoration: underline;
+}
+
+.p1{
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 100px;
+}
+
+.p2{
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 100px;
+}
+
+.p3{
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 100px;
+}
+
+.p4{
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 100px;
+}
+
+.p5{
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 100px;
+}
+
+.seven-star{
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    padding-top: 50px;
+
+}
+
+.ZM{
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    padding-top: 50px;
+
+
+}
+
+.holli{
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 40px;
+    margin-top: 30px;
+
+}
+
+.IW{
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 40px;
+    margin-top: 30px;
+
+}
+
+.IW  .p2{
+    padding-bottom: 40px;
+
+}
+
+
+
+
+/* CONTACT-US PAGE */
+
+.heading-sale{
+    color:#9FA8DA ;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 30px;
+}
+
+.info-sale{
+    padding-top: 80px ;
+    padding-left: 50px ;
+    font-size: 20px;
+    padding-bottom: 80px;
+}
+
+.pics{
+    padding-left: 60px;
+}
+
+.pics .img-1{
+    padding-bottom: 20px;
+}
+
+.pics .img-2{
+    padding-bottom: 20px;
+}
+
+.pics .img-3{
+    padding-bottom: 20px;
+}
+
+.pics .img-4{
+    padding-bottom: 20px;
+}
+
+.pics .img-5{
+    padding-bottom: 20px;
+}
+
+.pics .img-6{
+    padding-bottom: 20px;
+}
+
+.pics .img-7{
+    padding-bottom: 20px;
+}
+
+.pics .img-8{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-9{
+    padding-bottom: 20px;
+}
+
+.pics .img-10{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-11{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-12{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-13{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-14{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-15{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-16{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-17{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-18{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-19{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-20{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-21{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-22{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-23{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-24{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-25{
+    padding-bottom: 20px;
+}
+
+.pics .img-26{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-27{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-28{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-29{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-30{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-31{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-32{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-33{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-34{
+    padding-bottom: 20px;
+}
+
+
+.pics .img-35{
+    padding-bottom: 20px;
+}
+
+
+.shirts{
+    text-align: center;
+    padding-bottom: 40px;
+    font-size: 60px;
+    font-weight: bold;
+    text-decoration: underline;
+    color:#9FA8DA ;
+}
+
+.pants{
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    font-size: 60px;
+    font-weight: bold;
+    text-decoration: underline;
+    color:#9FA8DA ;
+}
+
+.chinos1{
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 40px;
+    font-size: 60px;
+    font-weight: bold;
+    text-decoration: underline;
+    color:#9FA8DA ;
+
+}
+
+/* CONTACT US PAGE */
+
+.aboutus1{
+   font-size: 60px;
+   font-weight: bold;
+   text-decoration: underline;
+   text-align: center;
+   color:#9FA8DA ;
+   padding-top: 50px;
+   padding-bottom: 40px;
+}
+
+.findus1{
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+    color: blue;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+.find-info1{
+    margin-left: 600px;
+}
+
+.cardinfo1{
+    margin-left: 600px;
+
+} 
